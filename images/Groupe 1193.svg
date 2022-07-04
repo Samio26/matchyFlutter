@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="79.402" height="79.403" viewBox="0 0 79.402 79.403">
+  <defs>
+    <filter id="Tracé_377" x="0" y="0" width="79.402" height="79.403" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#ff3a3a" flood-opacity="0.231"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Groupe_1193" data-name="Groupe 1193" transform="translate(-148 -519)">
+    <g id="Groupe_365" data-name="Groupe 365" transform="translate(-90.075 -1.902)">
+      <g transform="matrix(1, 0, 0, 1, 238.08, 520.9)" filter="url(#Tracé_377)">
+        <path id="Tracé_377-2" data-name="Tracé 377" d="M43.292,8.36a24.7,24.7,0,1,0,0,34.933,24.7,24.7,0,0,0,0-34.933Z" transform="translate(13.88 7.87)" fill="#e24e59"/>
+      </g>
+    </g>
+    <path id="Tracé_2702" data-name="Tracé 2702" d="M2367.417,1296.329c-2.958,0-16.318-12.018-10.943-18.617,4.735-4.892,10.327,2.236,10.943,2.236s6.142-7.127,10.765-2.236C2382.8,1283.924,2370.495,1296.329,2367.417,1296.329Z" transform="translate(-2179.212 -732.997)" fill="#fff"/>
+  </g>
+</svg>

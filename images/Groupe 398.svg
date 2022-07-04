@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29">
+  <g id="Groupe_398" data-name="Groupe 398" transform="translate(-38 -550)">
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="14.5" cy="14.5" r="14.5" transform="translate(38 550)" fill="#61bca6"/>
+    <g id="reload" transform="translate(45.424 558.07)">
+      <path id="Tracé_382" data-name="Tracé 382" d="M4.08,7.313l.707-.823a6.43,6.43,0,1,1-1.413,6.584" transform="translate(-1.937 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <path id="Tracé_383" data-name="Tracé 383" d="M22.6,6.259v3.7a.536.536,0,0,0,.536.536h3.7a.536.536,0,0,0,.379-.915l-3.7-3.7A.536.536,0,0,0,22.6,6.259Z" transform="translate(-22.597 -5.14)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
